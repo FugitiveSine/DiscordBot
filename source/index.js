@@ -34,8 +34,7 @@ client.on('interactionCreate', (interaction) => {
         
     }
     if(interaction.commandName === 'song'){
-        const clientID = '583be1b335ca4b2dba2f0e3a6caaeff5'
-        const clientSecret = 'da4bcbca0fa4434ba8a6f284326b597c'
+        
 
 
 
